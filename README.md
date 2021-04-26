@@ -1,6 +1,6 @@
 
 # Ordinal Terminal 
-
+## Discord`NeyrowZ#4547`
   
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://www.java.com/fr/)  [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://github.com/)
@@ -9,15 +9,6 @@
 [![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](paypal.me/ArinoniaDev)
 
 
-  
-
-## What is `Ordinal Terminal ?`
-
-This terminal is a terminal developed just for fun.
-
-  
-
-  
 
 ### Pre-requisites
 
