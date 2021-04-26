@@ -1,12 +1,7 @@
 
-# NeyrowZ French Developper
+# NeyrowZ French Developper [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://www.java.com/fr/)
 
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://www.java.com/fr/)
-[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://github.com/)
-
-
-Discord `NeyrowZ#4547`
+## Discord `NeyrowZ#4547`
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NeyrowZ&theme=blue-green)](https://github.com/NeyrowZ)
 
