@@ -1,6 +1,6 @@
-<h2>Languages</h2>
+<h2>NeyrowZ French Developper</h2>
 
-<h5>▴ Programming Languages</h5>
+<h4>Programming Languages</h4>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -9,7 +9,7 @@
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-<h2>▸ I'm always open to interesting conversations and collaboration.</h2>
+<h4>I'm always open to interesting conversations and collaboration.</h4>
 <p>
   <a href=""><img alt="NeyrowZ#4547" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://twitter.com/NeyrowZM"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
