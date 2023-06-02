@@ -15,4 +15,4 @@
   <a href="https://twitter.com/NeyrowZDev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NeyrowZ&theme=solarized-dark)](https://github.com/NeyrowZ)
+[![NeyrowZ's github stats](https://github-readme-stats.vercel.app/api?username=NeyrowZ&theme=solarized-dark)](https://github.com/NeyrowZ)
