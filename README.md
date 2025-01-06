@@ -7,4 +7,4 @@
 ### Languages & Tools:
 ![Skills&Tools](https://skillicons.dev/icons?i=java,python,ts,js,html,css,idea,vscode,nodejs,maven,gradle,mongodb,redis,mysql,github,bash,git&perline=6)
 
-<center><i>"For me coding is all about mindsed and versatility"</i></center>
+<i>"For me coding is all about mindsed and versatility"</i>
