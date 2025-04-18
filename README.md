@@ -5,6 +5,6 @@
 - `🌱` Learning new languages and tools in my free time.
 
 ### Languages & Tools:
-![Skills&Tools](https://skillicons.dev/icons?i=java,python,ts,js,html,css,idea,vscode,nodejs,maven,gradle,mongodb,redis,mysql,github,bash,git&perline=6)
+![Skills&Tools](https://skillicons.dev/icons?i=java,php,ts,js,html,css,idea,vscode,nodejs,maven,gradle,mongodb,redis,mysql,github,python,bash,git&perline=6)
 
 <i>"For me coding is all about mindsed and versatility"</i>
