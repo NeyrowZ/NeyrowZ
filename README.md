@@ -1,4 +1,4 @@
-### Hi there, I'm [@NeyrowZ](https://github.com/NeyrowZ) 🙋‍♂️
+### 👋 Hi there, I'm [@NeyrowZ](https://github.com/NeyrowZ)
 - `💻` Software & Web developer passionate about coding.
 - `🌱` Learning new languages and tools in my free time.
 
