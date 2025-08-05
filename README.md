@@ -1,6 +1,4 @@
-<img align="right" style="width:400px" src="https://github-readme-stats.vercel.app/api?username=NeyrowZ&show_icons=true&icon_color=ffc700&text_color=8f959e&bg_color=00000000&hide_title=true&hide_border=true"/>
-
-### Hi there, I'm NeyrowZ 🙋‍♂️
+### Hi there, I'm [@NeyrowZ](https://github.com/NeyrowZ) 🙋‍♂️
 - `💻` Software & Web developer passionate about coding.
 - `🌱` Learning new languages and tools in my free time.
 
